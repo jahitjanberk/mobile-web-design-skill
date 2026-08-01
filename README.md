@@ -1,4 +1,4 @@
-# mobile-web-design
+# Mobile Web Design Claude Skill
 
 A Claude Skill for UI/UX design work on mobile apps, web apps, and desktop dashboards. It combines:
 
