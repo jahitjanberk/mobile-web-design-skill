@@ -1,0 +1,10 @@
+{
+  "name": "mobile-web-design",
+  "description": "UX psychology and five distinct visual styles (Ambient Gradient, Moody Editorial, Soft Minimal Dashboard, Bold Flat Blocks, Modern SaaS Light) for mobile and web/desktop UI design, with automatic style routing based on the brief.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jahit Janberk"
+  },
+  "keywords": ["design", "ui", "ux", "mobile", "web", "figma", "swiftui", "frontend"],
+  "category": "design"
+}

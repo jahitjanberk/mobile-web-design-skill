@@ -1,0 +1,21 @@
+{
+  "name": "jahit-design-tools",
+  "owner": {
+    "name": "Jahit Janberk",
+    "url": "https://github.com/jahitjanberk"
+  },
+  "description": "Design skills for Claude — UX psychology and mobile/web visual style systems.",
+  "plugins": [
+    {
+      "name": "mobile-web-design",
+      "source": "./plugins/mobile-web-design",
+      "description": "UX psychology and five distinct visual styles for mobile and web/desktop UI design, with automatic style routing based on the brief.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Jahit Janberk"
+      },
+      "keywords": ["design", "ui", "ux", "mobile", "web"],
+      "category": "design"
+    }
+  ]
+}
