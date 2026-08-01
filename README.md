@@ -35,12 +35,6 @@ Every example below was generated *by the skill*, from a natural-language brief 
 
 **Note:** this output is dark-mode and console-styled, which diverges from the light-canvas spec currently written in `soft-minimal-dashboard.md`. The result is still strong, cohesive design — it just suggests the reference may be worth revising to explicitly cover a dark ops-console variant rather than assuming light-only. Flagging for transparency rather than presenting it as a perfect match to the current written spec.
 
-### Moody Editorial — wellness / meditation
-*Example coming soon.*
-
-### Modern SaaS Light — consumer analytics dashboard
-*Example coming soon.*
-
 ## Install
 
 ```
